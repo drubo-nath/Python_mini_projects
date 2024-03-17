@@ -2,7 +2,7 @@ import cv2
 import cvzone
 cap = cv2.VideoCapture(0)
 cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
-overlay = cv2.imread('pirate.png', cv2.IMREAD_UNCHANGED)
+overlay = cv2.imread('beard.png', cv2.IMREAD_UNCHANGED)
 while True:
     _, frame = cap.read()
     gray_scale = cv2.cvtColor(frame, cv2.COLOR_BGRA2GRAY)

@@ -4,9 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33188a5d-5d0f-4cfe-87f3-28f9598131b9" name="Changes" comment="project2 added">
-      <change afterPath="$PROJECT_DIR$/AImouse/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/smart_scanner/main.py" afterDir="false" />
+    <list default="true" id="33188a5d-5d0f-4cfe-87f3-28f9598131b9" name="Changes" comment="smart scanner project">
+      <change afterPath="$PROJECT_DIR$/simple_email_bot/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pythonProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Changes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Changes/beard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Changes/cool.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Changes/mypic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Changes/native.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Changes/pirate.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Changes/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Changes/star.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Changes/sunglass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Changes1/beard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Changes1/cool.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Changes1/native.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Changes1/pirate.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Changes1/star.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Changes1/sunglass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project1/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project1/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project2/main.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,13 +108,30 @@
       <option name="project" value="LOCAL" />
       <updated>1710868943276</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="smart scanner project">
+      <option name="closed" value="true" />
+      <created>1713281643685</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713281643685</updated>
+    </task>
+    <task id="LOCAL-00005" summary="smart scanner project">
+      <option name="closed" value="true" />
+      <created>1713281708204</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1713281708204</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="readme.md file added" />
     <MESSAGE value="project2 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="project2 added" />
+    <MESSAGE value="smart scanner project" />
+    <option name="LAST_COMMIT_MESSAGE" value="smart scanner project" />
   </component>
 </project>
